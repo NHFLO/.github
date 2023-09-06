@@ -17,4 +17,9 @@ Furthermore, PWN manages and protects the flora and fauna in these dunes, as the
 [Hoogheemraadschap Hollands Noorderkwartier](https://www.hhnk.nl/english) is the regional water authority of the Province of Noord Holland. They are tasked with the resposibility to prevent the land of getting flooded, sufficient availability of fresh and clean water, and road safety.
 
 ### Artesia
-[Artesia](https://www.artesia-water.nl/) is a small collective of groundwater modeling consults based in Schoonhoven, the Netherlands.
+[Artesia](https://www.artesia-water.nl/) is a small collective of groundwater modeling experts based in Schoonhoven, the Netherlands.
+
+##
+![image](https://github.com/NHFLO/.github/assets/11296133/967bf417-53df-491e-a6c1-efd75f5e48c3) 
+![image](https://github.com/NHFLO/.github/assets/11296133/ee9c5137-437f-4924-b6c7-aee8bca86f4d) 
+![image](https://github.com/NHFLO/.github/assets/11296133/890e0c59-1d74-44f2-8b26-b8c41622435c)
