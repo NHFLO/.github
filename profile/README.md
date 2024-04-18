@@ -8,8 +8,6 @@ This organisation maintains three main repositories:
 
 The modeling framework can be accessed via the [codespaces repository](https://github.com/NHFLO/codespaces). It provides an online version of VS Code (alternative to Spyder or PyCharm) preconfigured so that you can directly run the models.
 
-[![Models](https://github.com/NHFLO/models/actions/workflows/ci.yml/badge.svg)](https://github.com/NHFLO/models/actions/workflows/ci.yml) [![Data](https://github.com/NHFLO/data/actions/workflows/build.yml/badge.svg)](https://github.com/NHFLO/data/actions/workflows/build.yml)
-
 ## Partners
 PWN and HHNK use NHFLO to model their groundwater systems. Artesia has built most of the Python scripts part of NHFLO.
 
