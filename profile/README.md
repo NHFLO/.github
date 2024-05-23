@@ -6,7 +6,7 @@ This organisation maintains three main repositories:
 - [Data](https://github.com/NHFLO/data). Contains a catalogus with metadata of the public and proprietary data source of PWN and HHNK. The repository also includes mockup data for testing purposes. This is altered such that it does not represent reality but is usable to test the tools and groundwater models.
 - [Models](https://github.com/NHFLO/models). This is a private repository containing groundwater models used in production, in the form of Python notebooks.
 
-The modeling framework can be accessed via the [codespaces repository](https://github.com/NHFLO/codespaces). It provides an online version of VS Code (alternative to Spyder or PyCharm) preconfigured so that you can directly run the models.
+The modeling framework can be accessed via Codespace, as described inthe private [models repository](https://github.com/NHFLO/models). It provides an online version of VS Code (alternative to Spyder or PyCharm) preconfigured so that you can directly run the models.
 
 ## Partners
 PWN and HHNK use NHFLO to model their groundwater systems. Artesia has built most of the Python scripts part of NHFLO.
